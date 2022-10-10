@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-iwinser",
+  "version": "1.0.0",
+  "description": "Random String Mesages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwinser117/random-str-msg-iwinser.git"
+  },
+  "keywords": ["aprendiendo npm"],
+  "author": "Iwinser Sanchez <iwinser.sanchez47@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwinser117/random-str-msg-iwinser/issues"
+  },
+  "homepage": "https://github.com/iwinser117/random-str-msg-iwinser#readme",
+  "bin": {
+    "random-str-msg-iwinser": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
